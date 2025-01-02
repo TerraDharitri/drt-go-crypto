@@ -1,7 +1,7 @@
 filippo.io/edwards25519 v1.1.0 h1:FNf4tywRC1HmFuKW5xopWpigGjJKiJSV0Cqo0cJWDaA=
 filippo.io/edwards25519 v1.1.0/go.mod h1:BxyFTGdWcka3PhytdK4V28tE5sGfRvvvRV7EaN4VDT4=
-github.com/TerraDharitri/drt-go-core v0.0.1 h1:1aiBFCHColhI9Xl5dBDFKTqOlr/5yaBI8OyHWfP2y1w=
-github.com/TerraDharitri/drt-go-core v0.0.1/go.mod h1:HNjh9dLfGFIjKqyEZURem+55NxjwHQnJFErTkBsWyIc=
+github.com/TerraDharitri/drt-go-core v0.0.2 h1:KgqgXsaQ19a7eEd7E/vwqWWgWSMojA/p+1I4hhlHaz8=
+github.com/TerraDharitri/drt-go-core v0.0.2/go.mod h1:HNjh9dLfGFIjKqyEZURem+55NxjwHQnJFErTkBsWyIc=
 github.com/TerraDharitri/drt-go-logger v0.0.1 h1:TQDlbp4C7z9Hvuca6CQK8RcsrJQPiZEEikuuB8Zyl4A=
 github.com/TerraDharitri/drt-go-logger v0.0.1/go.mod h1:Tz6sxWdKtfNCsLlwdWiuRPwT1+XdmlmcNdxdcpvPqRI=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

@@ -1,6 +1,6 @@
 package mock
 
-import crypto "github.com/TerraDharitri/drt-go-crypto"
+import "crypto"
 
 // SingleSignerStub -
 type SingleSignerStub struct {
