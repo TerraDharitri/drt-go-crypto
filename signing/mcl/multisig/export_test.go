@@ -2,9 +2,9 @@ package multisig
 
 import (
 	"github.com/TerraDharitri/drt-go-core/hashing"
-	crypto "github.com/TerraDharitri/drt-go-crypto"
 	"github.com/TerraDharitri/drt-go-crypto/signing/mcl"
 	"github.com/herumi/bls-go-binary/bls"
+	crypto "github.com/TerraDharitri/drt-go-crypto"
 )
 
 func ScalarMulSig(suite crypto.Suite, scalarBytes []byte, sigPoint *mcl.PointG1) (*mcl.PointG1, error) {
